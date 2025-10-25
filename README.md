@@ -1,7 +1,7 @@
 <H3> Name : Ranjan Kumar G</H3>
 <H3>Register No. 212223240138</H3>
 <H3> Experiment 1</H3>
-<H3>DATE: 25.9.2025 </H3>
+<H3>DATE: 17.9.2025 </H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
